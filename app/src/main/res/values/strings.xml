@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">formulario_login_registro</string>
+    <string name="nombre_hint">Nombre</string> <!-- Cadena de recursos para el hint del EditText de nombre -->
+    <string name="correo_hint">Correo</string> <!-- Cadena de recursos para el hint del EditText de correo -->
+    <string name="contraseña_hint">Contraseña</string> <!-- Cadena de recursos para el hint del EditText de contraseña -->
+    <string name="btn_register_label">Register</string> <!-- Cadena de recursos para el texto del botón de registro -->
+</resources>
